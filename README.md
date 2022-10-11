@@ -1,6 +1,6 @@
 
 
-**DBT** ([Data Build Tool](https://www.getdbt.com/)) for Transforming the Data.
+**DBT** ([Data Build Tool](https://www.getdbt.com/)) for Transforming the Data..
 
 ### Installation Process
 
