@@ -1,0 +1,16 @@
+version: 2
+
+exposures:
+  - name: Dashboard
+    type: dashboard
+    maturity: low
+    url:  https://github.com/gutlapallihemanth/DBT
+    description: Executive Dashboard about Airbnb listings and hosts
+    depends_on:
+
+      - ref('dim_listings_w_hosts')
+      - ref('FULL_MOON_REVIEWS')
+
+    owner:
+      name: Hemanth Kumar
+      email: hemanthgutlapalli0301@gmail.com
