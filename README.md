@@ -48,7 +48,6 @@ Mac
 
 To setup **profiles.yml** the connections and details exist in these file [refer here](https://docs.getdbt.com/docs/core/connect-data-platform/snowflake-setup)
 
-    
     my-snowflake-db:
     target: dev
     outputs:
